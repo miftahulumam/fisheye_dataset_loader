@@ -8,7 +8,7 @@ This dataloader also provides depth image projection of point cloud data to fish
 |:--:|
 | Ground Truth Depth Image |
 
-| ![gt_mis](./figures/misaligned_proj_depth_0.png) | 
+<!-- | ![gt_mis](./figures/misaligned_proj_depth_0.png) | 
 |:--:|
 | Misaligned Depth Image (Input Image) |
 
@@ -18,4 +18,4 @@ This dataloader also provides depth image projection of point cloud data to fish
 
 | ![gt_mis](./figures/misaligned_proj_rgb_0.png) | 
 |:--:|
-| Ground Truth RGB Image with Misaligned LiDAR projection |
+| Ground Truth RGB Image with Misaligned LiDAR projection | -->
